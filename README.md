@@ -42,4 +42,4 @@ A pizza ordering website with cart & checkout.
 ## 🌐 Connect With Me
 - LinkedIn: [linkedin.com/in/chihab](https://linkedin.com/in/chihab)  
 - Portfolio: [your-portfolio.com](https://your-portfolio.com)  
-- Email: **yourmail@example.com**
+- Email: **chihabdev0@gmail.com**
