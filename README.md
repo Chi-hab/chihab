@@ -24,10 +24,9 @@ I love creating scalable, secure, and user-friendly online stores that help busi
 ---
 
 ## 📂 Featured Projects
-### 🛒 [E-commerce Store with Django](https://github.com/Chi-hab/chihab/ecommerce-django)
 An advanced e-commerce web app with cart, orders, and payment integration.
 
-### 🍕 [Pizza Delivery Web App](https://github.com/Chi-hab/Chihab/pizzeria)
+### 🍕 [Pizza Delivery Web App](https://github.com/Chi-hab/pizzeria)
 A pizza ordering website with cart & checkout.
 
 ---
